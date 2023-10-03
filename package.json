@@ -1,0 +1,11 @@
+{
+  "name": "clone",
+  "version": "0.0.1",
+  "description": "Este es mi primer clone ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    },
+  "author": "JDA CODEl",
+  "license": "MIT"
+}
